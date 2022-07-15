@@ -2,6 +2,10 @@
 3CX,*.3cx.us,2022/06/23,1,3CX provides easy to use IP PBX solutions
 3CX,3cx.com,2022/06/23,1,3CX provides easy to use IP PBX solutions
 3CX,3cx.us,2022/06/23,1,3CX provides easy to use IP PBX solutions
+Acronis,*.acronis.com,2022/07/15,1,Acronis provides backup security and disaster recovery solutions
+Acronis,acronis-dl.akamaized.net,2022/07/15,1,Acronis provides backup security and disaster recovery solutions
+Acronis,acronis.com,2022/07/15,1,Acronis provides backup security and disaster recovery solutions
+Acronis,acronis.com.c.footprint.net,2022/07/15,1,Acronis provides backup security and disaster recovery solutions
 Adobe,*.adobe.com,2022/06/23,1,
 Adobe,*.adobe.de,2022/06/23,1,
 Adobe,*.adobeereg.com,2022/06/23,1,
@@ -239,6 +243,8 @@ FacebookMessenger,*.msngr.com,2022/06/23,1,
 FacebookMessenger,m.me,2022/06/23,1,
 FacebookMessenger,messenger.com,2022/06/23,1,
 FacebookMessenger,msngr.com,2022/06/23,1,
+FerroBackup,*.ferrobackup.com,2022/07/15,1,Ferro Backup provides LAN backup solutions
+FerroBackup,ferrobackup.com,2022/07/15,1,Ferro Backup provides LAN backup solutions
 Flickr,*.flic.kr,2022/06/23,1,
 Flickr,*.flickr.com,2022/06/23,1,
 Flickr,*.flickr.net,2022/06/23,1,
@@ -503,6 +509,8 @@ PolishGovernment,mil.pl,2022/06/23,1,
 PolishGovernment,policja.pl,2022/06/23,1,
 PolishGovernment,wojsko-polskie.pl,2022/06/23,1,
 PolishGovernment,zus.pl,2022/06/23,1,
+RBackup,*.remote-backup.com,2022/07/15,1,RBackup provides Online Backup Services
+RBackup,remote-backup.com,2022/07/15,1,RBackup provides Online Backup Services
 Reddit,*.2kbc0d48tv3j.stspg-customer.com,2022/06/23,1,
 Reddit,*.amp-reddit-com.cdn.ampproject.org,2022/06/23,1,
 Reddit,*.prod-3-afd2022-lb-1642751420.us-east-1.elb.amazonaws.com,2022/06/23,1,
@@ -599,6 +607,8 @@ SoftEther,*.softether.org,2022/06/24,1,SoftEther VPN is free open-source cross-p
 SoftEther,sehosts.com,2022/06/24,1,SoftEther VPN is free open-source cross-platform multi-protocol VPN client and VPN server software
 SoftEther,softether-network.net,2022/06/24,1,SoftEther VPN is free open-source cross-platform multi-protocol VPN client and VPN server software
 SoftEther,softether.org,2022/06/24,1,SoftEther VPN is free open-source cross-platform multi-protocol VPN client and VPN server software
+SOSOnlineBackup,*.sosonlinebackup.com,2022/07/15,1,SOS Online Backup provides online backup remote data access versioning and more
+SOSOnlineBackup,sosonlinebackup.com,2022/07/15,1,SOS Online Backup provides online backup remote data access versioning and more
 Splashtop,*.splashtop.com,2022/06/24,1,Splashtop is a family of remote desktop software and remote support software
 Splashtop,d3t2yxw1bfe573.cloudfront.net,2022/06/24,1,Splashtop is a family of remote desktop software and remote support software
 Splashtop,splashtop.com,2022/06/24,1,Splashtop is a family of remote desktop software and remote support software
@@ -746,6 +756,8 @@ Tinder,tinder.ssl.zendesk.com,2022/06/23,1,
 Tinder,tindersparks.com,2022/06/23,1,
 Tor,*.torproject.org,2022/06/24,1,Tor is a free software that prevents people from learning your location or browsing habits by letting you communicate anonymously on the Internet It also helps you bypass censorship online
 Tor,torproject.org,2022/06/24,1,Tor is a free software that prevents people from learning your location or browsing habits by letting you communicate anonymously on the Internet It also helps you bypass censorship online
+TotalBackup,*.totalbackup.me,2022/07/15,1,Total Backup is cloud backup solution provided by Sinersio Data Center from Poland
+TotalBackup,totalbackup.me,2022/07/15,1,Total Backup is cloud backup solution provided by Sinersio Data Center from Poland
 Tuenti,*.tuenti.com,2022/06/23,1,Tuenti is a mobile operator brand
 Tuenti,*.tuenti.com.ar,2022/06/23,1,Tuenti is a mobile operator brand
 Tuenti,*.tuenti.ec,2022/06/23,1,Tuenti is a mobile operator brand
@@ -845,6 +857,8 @@ ValveSteam,steamstatic.com,2022/06/23,1,
 ValveSteam,steamusercontent.com,2022/06/23,1,
 ValveSteam,valve.net
 ValveSteam,valvesoftware.com
+Veeam,*.veeam.com,2022/07/15,1,Veeam provides backup disaster recovery and data management solutions
+Veeam,veeam.com,2022/07/15,1,Veeam provides backup disaster recovery and data management solutions
 Viber,*.viber.com,2022/06/23,1,Viber is a cross-platform voice over IP and instant messaging software application
 Viber,alb-sn-http-public-1965732462.us-east-1.elb.amazonaws.com,2022/06/23,1,Viber is a cross-platform voice over IP and instant messaging software application
 Viber,viber.com,2022/06/23,1,Viber is a cross-platform voice over IP and instant messaging software application
@@ -920,6 +934,8 @@ Wikipedia,wikimedia.org,2022/06/23,1,
 Wikipedia,wikipedia.org,2022/06/23,1,
 Wykop,*.wykop.pl,2022/06/24,1,
 Wykop,wykop.pl,2022/06/24,1,
+Xopero,*.xopero.com,2022/07/15,1,Xopero provides backup and recovery solutions
+Xopero,xopero.com,2022/07/15,1,Xopero provides backup and recovery solutions
 YouTube,*.googlevideo.com,2022/06/23,1,
 YouTube,*.youtu.be,2022/06/23,1,
 YouTube,*.youtube-nocookie.com,2022/06/23,1,
