@@ -75,12 +75,32 @@ CanadianGovernment,*.statcan.ca,2022/06/24,1,Canadian Government sites
 CanadianGovernment,canada.ca,2022/06/24,1,Canadian Government sites
 CanadianGovernment,gc.ca,2022/06/24,1,Canadian Government sites
 CanadianGovernment,statcan.ca,2022/06/24,1,Canadian Government sites
-CloudFlarePublicDNS,1.0.0.1,2022/06/23,1,
-CloudFlarePublicDNS,1.0.0.2,2022/06/23,1,
-CloudFlarePublicDNS,1.0.0.3,2022/06/23,1,
-CloudFlarePublicDNS,1.1.1.1,2022/06/23,1,
-CloudFlarePublicDNS,1.1.1.2,2022/06/23,1,
-CloudFlarePublicDNS,1.1.1.3,2022/06/23,1,
+CiscoUmbrellaDNS,*.doh.umbrella.com,2022/07/16,1,Cisco Umbrella (formely OpenDNS) continues to offer DNS-layer security separately to simplify security for businesses of all sizes
+CiscoUmbrellaDNS,208.67.220.220,2022/07/16,1,Cisco Umbrella (formely OpenDNS) continues to offer DNS-layer security separately to simplify security for businesses of all sizes
+CiscoUmbrellaDNS,208.67.221.76,2022/07/16,1,Cisco Umbrella (formely OpenDNS) continues to offer DNS-layer security separately to simplify security for businesses of all sizes
+CiscoUmbrellaDNS,208.67.222.222,2022/07/16,1,Cisco Umbrella (formely OpenDNS) continues to offer DNS-layer security separately to simplify security for businesses of all sizes
+CiscoUmbrellaDNS,208.67.223.76,2022/07/16,1,Cisco Umbrella (formely OpenDNS) continues to offer DNS-layer security separately to simplify security for businesses of all sizes
+CiscoUmbrellaDNS,2620:119:17::76,2022/07/16,1,Cisco Umbrella (formely OpenDNS) continues to offer DNS-layer security separately to simplify security for businesses of all sizes
+CiscoUmbrellaDNS,2620:119:35::35,2022/07/16,1,Cisco Umbrella (formely OpenDNS) continues to offer DNS-layer security separately to simplify security for businesses of all sizes
+CiscoUmbrellaDNS,2620:119:53::53,2022/07/16,1,Cisco Umbrella (formely OpenDNS) continues to offer DNS-layer security separately to simplify security for businesses of all sizes
+CiscoUmbrellaDNS,2620:119:76::76,2022/07/16,1,Cisco Umbrella (formely OpenDNS) continues to offer DNS-layer security separately to simplify security for businesses of all sizes
+CiscoUmbrellaDNS,doh.umbrella.com,2022/07/16,1,Cisco Umbrella (formely OpenDNS) continues to offer DNS-layer security separately to simplify security for businesses of all sizes
+CloudFlarePublicDNS,*.cloudflare-dns.com,2022/07/16,2,CloudFlare provides fast public DNS resolvers free of charge in three difrent flavours normal security and for families
+CloudFlarePublicDNS,1.0.0.1,2022/07/16,2,CloudFlare provides fast public DNS resolvers free of charge in three difrent flavours normal security and for families
+CloudFlarePublicDNS,1.0.0.2,2022/07/16,2,CloudFlare provides fast public DNS resolvers free of charge in three difrent flavours normal security and for families
+CloudFlarePublicDNS,1.0.0.3,2022/07/16,2,CloudFlare provides fast public DNS resolvers free of charge in three difrent flavours normal security and for families
+CloudFlarePublicDNS,1.1.1.1,2022/07/16,2,CloudFlare provides fast public DNS resolvers free of charge in three difrent flavours normal security and for families
+CloudFlarePublicDNS,1.1.1.2,2022/07/16,2,CloudFlare provides fast public DNS resolvers free of charge in three difrent flavours normal security and for families
+CloudFlarePublicDNS,1.1.1.3,2022/07/16,2,CloudFlare provides fast public DNS resolvers free of charge in three difrent flavours normal security and for families
+CloudFlarePublicDNS,2606:4700:4700::1001,2022/07/16,2,CloudFlare provides fast public DNS resolvers free of charge in three difrent flavours normal security and for families
+CloudFlarePublicDNS,2606:4700:4700::1002,2022/07/16,2,CloudFlare provides fast public DNS resolvers free of charge in three difrent flavours normal security and for families
+CloudFlarePublicDNS,2606:4700:4700::1003,2022/07/16,2,CloudFlare provides fast public DNS resolvers free of charge in three difrent flavours normal security and for families
+CloudFlarePublicDNS,2606:4700:4700::1111,2022/07/16,2,CloudFlare provides fast public DNS resolvers free of charge in three difrent flavours normal security and for families
+CloudFlarePublicDNS,2606:4700:4700::1112,2022/07/16,2,CloudFlare provides fast public DNS resolvers free of charge in three difrent flavours normal security and for families
+CloudFlarePublicDNS,2606:4700:4700::1113,2022/07/16,2,CloudFlare provides fast public DNS resolvers free of charge in three difrent flavours normal security and for families
+CloudFlarePublicDNS,2606:4700:4700::64,2022/07/16,2,CloudFlare provides fast public DNS resolvers free of charge in three difrent flavours normal security and for families
+CloudFlarePublicDNS,2606:4700:4700::6400,2022/07/16,2,CloudFlare provides fast public DNS resolvers free of charge in three difrent flavours normal security and for families
+CloudFlarePublicDNS,cloudflare-dns.com,2022/07/16,2,CloudFlare provides fast public DNS resolvers free of charge in three difrent flavours normal security and for families
 CyberGhostVPN,*.cyberghostvpn.com,2022/06/24,1,CyberGhost provides VPN privacy and security solutions
 CyberGhostVPN,cyberghostvpn.com,2022/06/24,1,CyberGhost provides VPN privacy and security solutions
 CyberGhostVPN,cyberghostvpn.com.cdn.cloudflare.net,2022/06/24,1,CyberGhost provides VPN privacy and security solutions
@@ -265,12 +285,20 @@ Fotka,fotka.com,2022/06/24,1,Fotka is dating and social media plaform from Polan
 Fotka,fotka.pl,2022/06/24,1,Fotka is dating and social media plaform from Poland
 GameBean,*.game-bean.com,2022/06/24,1,Game Bean is a Chinese online game (The King of Fighters)
 GameBean,game-bean.com,2022/06/24,1,Game Bean is a Chinese online game (The King of Fighters)
-GG,*.gadu-gadu.pl,2022/06/23,1,
-GG,*.gg.pl,2022/06/23,1,
-GG,gadu-gadu.pl,2022/06/23,1,
-GG,gg.pl,2022/06/23,1,
-GooglePublicDNS,8.8.4.4,2022/06/23,1,
-GooglePublicDNS,8.8.8.8,2022/06/23,1,
+GG,*.gadu-gadu.pl,2022/06/23,1,GG (formely Gadu-Gadu) is a Polish instant messaging app
+GG,*.gg.pl,2022/06/23,1,GG (formely Gadu-Gadu) is a Polish instant messaging app
+GG,gadu-gadu.pl,2022/06/23,1,GG (formely Gadu-Gadu) is a Polish instant messaging app
+GG,gg.pl,2022/06/23,1,GG (formely Gadu-Gadu) is a Polish instant messaging app
+GooglePublicDNS,*.dns.google,2022/07/16,2,Google provides fast public DNS resolvers free of charge
+GooglePublicDNS,*.dns.google.com,2022/07/16,2,Google provides fast public DNS resolvers free of charge
+GooglePublicDNS,2001:4860:4860::64,2022/07/16,2,Google provides fast public DNS resolvers free of charge
+GooglePublicDNS,2001:4860:4860::6464,2022/07/16,2,Google provides fast public DNS resolvers free of charge
+GooglePublicDNS,2001:4860:4860::8844,2022/07/16,2,Google provides fast public DNS resolvers free of charge
+GooglePublicDNS,2001:4860:4860::8888,2022/07/16,2,Google provides fast public DNS resolvers free of charge
+GooglePublicDNS,8.8.4.4,2022/07/16,2,Google provides fast public DNS resolvers free of charge
+GooglePublicDNS,8.8.8.8,2022/07/16,2,Google provides fast public DNS resolvers free of charge
+GooglePublicDNS,dns.google,2022/07/16,2,Google provides fast public DNS resolvers free of charge
+GooglePublicDNS,dns.google.com,2022/07/16,2,Google provides fast public DNS resolvers free of charge
 Gravatar,*-gravatar-com.cdn.ampproject.org,2022/06/23,1,
 Gravatar,*.gravatar.com,2022/06/23,1,
 Gravatar,gravatar.com,2022/06/23,1,
@@ -509,6 +537,24 @@ PolishGovernment,mil.pl,2022/06/23,1,
 PolishGovernment,policja.pl,2022/06/23,1,
 PolishGovernment,wojsko-polskie.pl,2022/06/23,1,
 PolishGovernment,zus.pl,2022/06/23,1,
+Quad9DNS,*.dns.quad9.net,2022/07/16,1,Quad9 is a free service that replaces your default ISP or enterprise Domain Name Server (DNS) configuration also with malware blocking
+Quad9DNS,*.dns10.quad9.net,2022/07/16,1,Quad9 is a free service that replaces your default ISP or enterprise Domain Name Server (DNS) configuration also with malware blocking
+Quad9DNS,*.dns11.quad9.net,2022/07/16,1,Quad9 is a free service that replaces your default ISP or enterprise Domain Name Server (DNS) configuration also with malware blocking
+Quad9DNS,149.112.112.10,2022/07/16,1,Quad9 is a free service that replaces your default ISP or enterprise Domain Name Server (DNS) configuration also with malware blocking
+Quad9DNS,149.112.112.11,2022/07/16,1,Quad9 is a free service that replaces your default ISP or enterprise Domain Name Server (DNS) configuration also with malware blocking
+Quad9DNS,149.112.112.112,2022/07/16,1,Quad9 is a free service that replaces your default ISP or enterprise Domain Name Server (DNS) configuration also with malware blocking
+Quad9DNS,2620:fe::10,2022/07/16,1,Quad9 is a free service that replaces your default ISP or enterprise Domain Name Server (DNS) configuration also with malware blocking
+Quad9DNS,2620:fe::11,2022/07/16,1,Quad9 is a free service that replaces your default ISP or enterprise Domain Name Server (DNS) configuration also with malware blocking
+Quad9DNS,2620:fe::9,2022/07/16,1,Quad9 is a free service that replaces your default ISP or enterprise Domain Name Server (DNS) configuration also with malware blocking
+Quad9DNS,2620:fe::fe,2022/07/16,1,Quad9 is a free service that replaces your default ISP or enterprise Domain Name Server (DNS) configuration also with malware blocking
+Quad9DNS,2620:fe::fe:10,2022/07/16,1,Quad9 is a free service that replaces your default ISP or enterprise Domain Name Server (DNS) configuration also with malware blocking
+Quad9DNS,2620:fe::fe:11,2022/07/16,1,Quad9 is a free service that replaces your default ISP or enterprise Domain Name Server (DNS) configuration also with malware blocking
+Quad9DNS,9.9.9.10,2022/07/16,1,Quad9 is a free service that replaces your default ISP or enterprise Domain Name Server (DNS) configuration also with malware blocking
+Quad9DNS,9.9.9.11,2022/07/16,1,Quad9 is a free service that replaces your default ISP or enterprise Domain Name Server (DNS) configuration also with malware blocking
+Quad9DNS,9.9.9.9,2022/07/16,1,Quad9 is a free service that replaces your default ISP or enterprise Domain Name Server (DNS) configuration also with malware blocking
+Quad9DNS,dns.quad9.net,2022/07/16,1,Quad9 is a free service that replaces your default ISP or enterprise Domain Name Server (DNS) configuration also with malware blocking
+Quad9DNS,dns10.quad9.net,2022/07/16,1,Quad9 is a free service that replaces your default ISP or enterprise Domain Name Server (DNS) configuration also with malware blocking
+Quad9DNS,dns11.quad9.net,2022/07/16,1,Quad9 is a free service that replaces your default ISP or enterprise Domain Name Server (DNS) configuration also with malware blocking
 RBackup,*.remote-backup.com,2022/07/15,1,RBackup provides Online Backup Services
 RBackup,remote-backup.com,2022/07/15,1,RBackup provides Online Backup Services
 Reddit,*.2kbc0d48tv3j.stspg-customer.com,2022/06/23,1,
