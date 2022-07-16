@@ -831,32 +831,32 @@ UKGovernment,gov.uk.cdn.cloudflare.net,2022/06/24,1,United Kingdom Government si
 UKGovernment,www-gov-uk.map.fastly.net,2022/06/24,1,United Kingdom Government sites
 USGovernment,*.gov,2022/06/24,1,United States Government and Military sites
 USGovernment,*.mil,2022/06/24,1,United States Government and Military sites
-ValveSteam,*.8686c.com
-ValveSteam,*.s.team
-ValveSteam,*.steam-chat.com
-ValveSteam,*.steamchina.com
-ValveSteam,*.steamcommunity.com,2022/06/23,1,
-ValveSteam,*.steamcontent.com,2022/06/23,1,
-ValveSteam,*.steamgames.com,2022/06/23,1,
-ValveSteam,*.steampowered.com,2022/06/23,1,
-ValveSteam,*.steamstatic.com,2022/06/23,1,
-ValveSteam,*.steamusercontent.com,2022/06/23,1,
-ValveSteam,*.valve.net
-ValveSteam,*.valvesoftware.com
-ValveSteam,8686c.com
-ValveSteam,s.team
-ValveSteam,steam-chat.com
-ValveSteam,steambroadcast.akamaized.net
-ValveSteam,steamchina.com
-ValveSteam,steamcommunity.com,2022/06/23,1,
-ValveSteam,steamcontent.com,2022/06/23,1,
-ValveSteam,steamcontent.com.c.footprint.net
-ValveSteam,steamgames.com,2022/06/23,1,
-ValveSteam,steampowered.com,2022/06/23,1,
-ValveSteam,steamstatic.com,2022/06/23,1,
-ValveSteam,steamusercontent.com,2022/06/23,1,
-ValveSteam,valve.net
-ValveSteam,valvesoftware.com
+ValveSteam,*.8686c.com,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,*.s.team,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,*.steam-chat.com,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,*.steamchina.com,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,*.steamcommunity.com,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,*.steamcontent.com,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,*.steamgames.com,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,*.steampowered.com,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,*.steamstatic.com,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,*.steamusercontent.com,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,*.valve.net,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,*.valvesoftware.com,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,8686c.com,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,s.team,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,steam-chat.com,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,steambroadcast.akamaized.net,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,steamchina.com,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,steamcommunity.com,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,steamcontent.com,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,steamcontent.com.c.footprint.net,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,steamgames.com,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,steampowered.com,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,steamstatic.com,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,steamusercontent.com,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,valve.net,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
+ValveSteam,valvesoftware.com,2022/07/16,2,Steam is a video game digital distribution service and storefront by Valve
 Veeam,*.veeam.com,2022/07/15,1,Veeam provides backup disaster recovery and data management solutions
 Veeam,veeam.com,2022/07/15,1,Veeam provides backup disaster recovery and data management solutions
 Viber,*.viber.com,2022/06/23,1,Viber is a cross-platform voice over IP and instant messaging software application
